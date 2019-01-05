@@ -1,0 +1,9 @@
+NOTES
+-----
+
+# The purpose of BisectionMethod.cpp is to find the root of a function using the Bisection Method, where the integer a of f(a) is equal to -1.1 and the integer b of f(b) is equal to -2.34.
+
+# Similarly, the purpose of BisectionSample.cpp is to demonstrate the structure of the Bisection Algorithm, using the integer a in f(a) as equal to -1 and the b in f(b) is equal to -2.
+
+# WindowsProject3.cpp is a simple averaging program, used to average two integers representing hypothetical grades. It is one of the simplest, and likely the first program we compiled.
+
